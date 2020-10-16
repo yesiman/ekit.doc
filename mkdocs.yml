@@ -1,0 +1,4 @@
+site_name: Ekit documentation
+nav:
+    - Translations: main-translations.md
+theme: readthedocs
